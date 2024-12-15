@@ -15,3 +15,9 @@ https://data.oecd.org/
 
 Verdensbanken statistik databaser
 https://data.worldbank.org/
+
+International befolkningsdata hos census
+https://www.census.gov/data-tools/demo/idb/
+
+Sipri militær databaser
+https://www.sipri.org/databases
